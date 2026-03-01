@@ -66,7 +66,7 @@ The model was trained on **NewPlaces2026_Japan_dataset.jsonl** using the **Alpac
 
 The fine-tuned LoRA adapters are available at:
 
-👉 **[Trend-SpotterTokyo2026Model on Hugging Face](https://huggingface.co)**
+👉 **[Trend-SpotterTokyo2026Model on Hugging Face](https://huggingface.co/mistral-hackaton-2026/Trend-SpotterTokyo2026Model/tree/main)**
 
 ---
 
